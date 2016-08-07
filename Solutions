@@ -1,0 +1,31 @@
+<!DOCTYPE html>
+<html>
+<meta charset='utf-8'>
+<meta name="viewport" content="width=device-width" />
+
+<head>
+	<link rel="stylesheet" href="index.css"	>
+	<title>Coursera Mod2 Asgnmt</title>
+</head>
+
+<h1 id="heading">Our Menu</h1>
+<body>
+		
+		<div class='dalt' id='div1'>
+			<strong><p class='pt' id='pt1'>Chicken</p></strong>
+			<p class='pm'>It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout. The point of using Lorem Ipsum is that it has a more-or-less normal distribution of letters, as opposed to using 'Content here, content here', making it look like readable English.Many desktop publishing packages and web page editors now use Lorem Ipsum as their default model text.</p>
+		</div>
+		
+		<div class='dalt' id='div2'>
+			<strong><p class='pt' id='pt2'>Sushi</p></strong>
+			<p class='pm'>It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout. The point of using Lorem Ipsum is that it has a more-or-less normal distribution of letters, as opposed to using 'Content here, content here', making it look like readable English.Many desktop publishing packages and web page editors now use Lorem Ipsum as their default model text.</p>
+		</div>
+
+		<div class='dalt' id='div3'>
+			<strong><p class='pt' id='pt3'>Beef</p></strong>
+			<p class='pm' id='pm3'>It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout. The point of using Lorem Ipsum is that it has a more-or-less normal distribution of letters, as opposed to using 'Content here, content here', making it look like readable English.Many desktop publishing packages and web page editors now use Lorem Ipsum as their default model text.</p>
+		</div>
+ 
+</body>
+
+</html>
